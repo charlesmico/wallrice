@@ -8,7 +8,7 @@ export function Footer() {
           <div className="text-slate-600 text-sm">
             Made with ❤️ by{" "}
             <a
-              href="https://nathvn.com"
+              href="https://houlamy.com"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-800 underline decoration-dotted hover:text-slate-900 font-medium transition-colors"
@@ -18,7 +18,7 @@ export function Footer() {
           </div>
           <div className="flex items-center gap-6">
             <a
-              href="https://github.com/groovykiwi/wallrice"
+              href="https://github.com/nathanhoulamy/wallrice"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-600 hover:text-slate-800 transition-colors text-sm font-medium"
@@ -26,7 +26,7 @@ export function Footer() {
               Code
             </a>
             <a
-              href="https://github.com/groovykiwi"
+              href="https://github.com/nathanhoulamy"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-600 hover:text-slate-800 transition-colors text-sm font-medium"
@@ -34,7 +34,7 @@ export function Footer() {
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/nathan-houlamy"
+              href="https://linkedin.com/in/nathanhoulamy"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-600 hover:text-slate-800 transition-colors text-sm font-medium"
@@ -42,12 +42,12 @@ export function Footer() {
               LinkedIn
             </a>
             <a
-              href="https://privacyalternative.com"
+              href="https://x.com/nathanhoulamy"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-600 hover:text-slate-800 transition-colors text-sm font-medium"
             >
-              Privacy Alternative
+              X (Twitter)
             </a>
           </div>
         </div>
